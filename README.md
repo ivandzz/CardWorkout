@@ -1,5 +1,5 @@
 # 🃏 Card Workout
-##Description
+## Description
 CardWorkout is a simple iOS app designed for card-based workouts. The app displays a random card from a deck, which can be used in various fitness exercises (e.g., each card suit or value can represent different exercises or repetitions).
 
 ## 📲 Features
